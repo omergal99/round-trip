@@ -1,0 +1,33 @@
+@import "./clearing";
+
+* {
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+html {
+  font-size: 16px;
+  font-family: sans-serif, Arial, serif;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans",
+    "Droid Sans", "Helvetica Neue", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
+}
+
+.App {
+  direction: var(--direction-short);
+  // height: 100vh;
+  text-align: center;
+  // padding: var(--navBar-height) 0 0;
+  // .router {
+  //   height: 100%;
+  // }
+}

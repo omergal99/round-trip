@@ -1,0 +1,12 @@
+.vacation-list {
+  display: grid;
+  gap: 1rem;
+  grid-template: 1fr / 1fr 1fr;
+  margin: 0 auto;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  transition: all 0.3s;
+  .product-list {
+    grid-area: 2 / 1 / 2 / 3;
+  }
+}

@@ -1,0 +1,44 @@
+/**************** Helpers ****************/
+
+.overflow-hidden {
+  overflow: hidden;
+}
+
+/********** Flex **********/
+
+.flex {
+  display: flex;
+}
+
+.flex-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.flex-col {
+  display: flex;
+  flex-direction: column;
+}
+
+.flex-evenly {
+  display: flex;
+  justify-content: space-around;
+  justify-content: space-evenly;
+}
+
+/********** Text **********/
+
+.text-wrap {
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  hyphens: auto;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.inline-block {
+  display: inline-block;
+}

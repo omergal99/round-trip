@@ -1,0 +1,103 @@
+@mixin background-size($background-size) {
+  -webkit-background-size: $background-size;
+  -moz-background-size: $background-size;
+  -o-background-size: $background-size;
+  background-size: $background-size;
+}
+
+@mixin transform($property) {
+  -webkit-transform: $property;
+  -ms-transform: $property;
+  transform: $property;
+}
+
+@mixin pseudo($display: block, $pos: absolute, $content: "") {
+  content: $content;
+  display: $display;
+  position: $pos;
+}
+
+@mixin clip-path($property) {
+  -webkit-clip-path: $property;
+  clip-path: $property;
+}
+
+@mixin user-select-none() {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+@mixin height-animation($name: height0To100, $time: 1s) {
+  animation: $name $time linear;
+}
+
+@mixin linear-gradient-clip-border($color: var(--color1-light), $min: 1%, $max: 99%, $deg: 135deg) {
+  background: linear-gradient($deg, #0000 $min, $color $min, $color $max, #0000 $max);
+}
+
+@mixin linear-gradient-pseudo-border($from: left top, $to: right bottom) {
+  border-image: -webkit-gradient(
+      linear,
+      $from,
+      $to,
+      from(var(--color1-normal)),
+      to(var(--color1-dark)),
+      color-stop(0.5, var(--color1-normal)),
+      color-stop(0.5, var(--color1-border)),
+      color-stop(0.7, var(--color1-dark))
+    )
+    21 25 27 23;
+}
+
+@mixin scrollbar() {
+  @media not screen and (hover: none) and (pointer: coarse) {
+    &::-webkit-scrollbar {
+      z-index: 500;
+      width: 16px;
+      // background-color: var(--color1-light);
+      background-color: transparent;
+    }
+    &::-webkit-scrollbar-thumb {
+      border-radius: 10px;
+      box-shadow: inset 0px 0px 0px 2px var(--color1-border);
+      background-color: var(--color1-normal);
+    }
+    &::-webkit-scrollbar-track {
+      box-shadow: inset 0 0 7px 2px rgba(0, 0, 0, 0.3);
+      border-radius: 10px;
+      background-color: var(--color1-light);
+    }
+    // &::-webkit-scrollbar-button:single-button {
+    //   &:vertical {
+    //     background-size: 10px;
+    //     background-position: center;
+    //     background-repeat: no-repeat;z
+    //     &:decrement {
+    //       // background-image: url(../img/scrollbar/up.svg);
+    //     }
+    //     &:increment {
+    //       // background-image: url(../img/scrollbar/down.svg);
+    //     }
+    //     &:hover {
+    //       background-color: #293446;
+    //     }
+    //   }
+    //   &:horizontal {
+    //     background-size: 10px;
+    //     background-position: center;
+    //     background-repeat: no-repeat;
+    //     &:decrement {
+    //       // background-image: url(../img/scrollbar/left.svg);
+    //     }
+    //     &:increment {
+    //       // background-image: url(../img/scrollbar/right.svg);
+    //     }
+    //     &:hover {
+    //       background-color: #293446;
+    //     }
+    //   }
+    // }
+  }
+}

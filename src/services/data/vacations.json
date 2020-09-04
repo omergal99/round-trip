@@ -1,0 +1,1702 @@
+[
+  {
+    "id": "5f510858fc13ae166e000064",
+    "hotel": {
+      "name": "Rolfson-Klocko",
+      "rating": 4,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1599134737911,
+      "to": 1599302834573
+    },
+    "roomsAmount": 1,
+    "maxPersonInRoom": 5,
+    "pricePerPerson": 2795,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510858fc13ae166e000065",
+    "hotel": {
+      "name": "Howe, Littel and Spencer",
+      "rating": 1,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1599004707360,
+      "to": 1599539216057
+    },
+    "roomsAmount": 2,
+    "maxPersonInRoom": 4,
+    "pricePerPerson": 2568,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510858fc13ae166e000066",
+    "hotel": {
+      "name": "Gleichner and Sons",
+      "rating": 4,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1598878526474,
+      "to": 1599302264958
+    },
+    "roomsAmount": 2,
+    "maxPersonInRoom": 3,
+    "pricePerPerson": 3075,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510858fc13ae166e000067",
+    "hotel": {
+      "name": "Tillman, Ziemann and Haley",
+      "rating": 4,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1599065802808,
+      "to": 1599566389041
+    },
+    "roomsAmount": 2,
+    "maxPersonInRoom": 3,
+    "pricePerPerson": 1797,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510858fc13ae166e000068",
+    "hotel": {
+      "name": "Tromp and Sons",
+      "rating": 2,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1598545461091,
+      "to": 1599180230384
+    },
+    "roomsAmount": 2,
+    "maxPersonInRoom": 4,
+    "pricePerPerson": 4658,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510858fc13ae166e000069",
+    "hotel": {
+      "name": "Wiza-Rempel",
+      "rating": 3,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1598690242865,
+      "to": 1599258261181
+    },
+    "roomsAmount": 1,
+    "maxPersonInRoom": 4,
+    "pricePerPerson": 3487,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510858fc13ae166e00006a",
+    "hotel": {
+      "name": "Boyer-Botsford",
+      "rating": 3,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1598587564632,
+      "to": 1599367797173
+    },
+    "roomsAmount": 2,
+    "maxPersonInRoom": 3,
+    "pricePerPerson": 3351,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510858fc13ae166e00006b",
+    "hotel": {
+      "name": "Breitenberg LLC",
+      "rating": 5,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1599036875974,
+      "to": 1599458490188
+    },
+    "roomsAmount": 1,
+    "maxPersonInRoom": 6,
+    "pricePerPerson": 957,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510858fc13ae166e00006c",
+    "hotel": {
+      "name": "Beatty Inc",
+      "rating": 4,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1599132952151,
+      "to": 1599595698928
+    },
+    "roomsAmount": 1,
+    "maxPersonInRoom": 2,
+    "pricePerPerson": 1323,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510858fc13ae166e00006d",
+    "hotel": {
+      "name": "Dooley and Sons",
+      "rating": 1,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1598711494671,
+      "to": 1599266446883
+    },
+    "roomsAmount": 1,
+    "maxPersonInRoom": 3,
+    "pricePerPerson": 715,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510858fc13ae166e00006e",
+    "hotel": {
+      "name": "Runolfsdottir-Mayert",
+      "rating": 4,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1599006298622,
+      "to": 1599648785392
+    },
+    "roomsAmount": 1,
+    "maxPersonInRoom": 4,
+    "pricePerPerson": 1566,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510858fc13ae166e00006f",
+    "hotel": {
+      "name": "Marquardt Group",
+      "rating": 4,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1598655205505,
+      "to": 1599232530376
+    },
+    "roomsAmount": 2,
+    "maxPersonInRoom": 6,
+    "pricePerPerson": 4769,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510858fc13ae166e000070",
+    "hotel": {
+      "name": "Tremblay-Funk",
+      "rating": 4,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1598958466432,
+      "to": 1599261648113
+    },
+    "roomsAmount": 2,
+    "maxPersonInRoom": 5,
+    "pricePerPerson": 3837,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510858fc13ae166e000071",
+    "hotel": {
+      "name": "Cummings-Nader",
+      "rating": 2,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1598638041132,
+      "to": 1599488314339
+    },
+    "roomsAmount": 1,
+    "maxPersonInRoom": 4,
+    "pricePerPerson": 2497,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510858fc13ae166e000072",
+    "hotel": {
+      "name": "Runolfsdottir, Hermann and Farrell",
+      "rating": 3,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1598546182304,
+      "to": 1599263698501
+    },
+    "roomsAmount": 2,
+    "maxPersonInRoom": 5,
+    "pricePerPerson": 2808,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510858fc13ae166e000073",
+    "hotel": {
+      "name": "Mraz, Rolfson and Williamson",
+      "rating": 5,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1599138021458,
+      "to": 1599605882506
+    },
+    "roomsAmount": 2,
+    "maxPersonInRoom": 6,
+    "pricePerPerson": 4200,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510858fc13ae166e000074",
+    "hotel": {
+      "name": "Parisian-Cartwright",
+      "rating": 2,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1598732757282,
+      "to": 1599523192433
+    },
+    "roomsAmount": 2,
+    "maxPersonInRoom": 4,
+    "pricePerPerson": 1589,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510858fc13ae166e000075",
+    "hotel": {
+      "name": "Schmitt, Sipes and Powlowski",
+      "rating": 2,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1598704480965,
+      "to": 1599470671787
+    },
+    "roomsAmount": 1,
+    "maxPersonInRoom": 6,
+    "pricePerPerson": 983,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510858fc13ae166e000076",
+    "hotel": {
+      "name": "Dicki Inc",
+      "rating": 2,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1598676363738,
+      "to": 1599741154109
+    },
+    "roomsAmount": 2,
+    "maxPersonInRoom": 3,
+    "pricePerPerson": 1318,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510858fc13ae166e000077",
+    "hotel": {
+      "name": "Lang and Sons",
+      "rating": 5,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1599045792020,
+      "to": 1599163482095
+    },
+    "roomsAmount": 2,
+    "maxPersonInRoom": 6,
+    "pricePerPerson": 3296,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510858fc13ae166e000078",
+    "hotel": {
+      "name": "Will-Powlowski",
+      "rating": 5,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1598674645400,
+      "to": 1599281890065
+    },
+    "roomsAmount": 1,
+    "maxPersonInRoom": 3,
+    "pricePerPerson": 743,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510858fc13ae166e000079",
+    "hotel": {
+      "name": "Morissette Group",
+      "rating": 2,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1598839224102,
+      "to": 1599629018673
+    },
+    "roomsAmount": 2,
+    "maxPersonInRoom": 6,
+    "pricePerPerson": 3403,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510858fc13ae166e00007a",
+    "hotel": {
+      "name": "Raynor-Hills",
+      "rating": 5,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1598607532441,
+      "to": 1599539450510
+    },
+    "roomsAmount": 1,
+    "maxPersonInRoom": 4,
+    "pricePerPerson": 3890,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510858fc13ae166e00007b",
+    "hotel": {
+      "name": "Bechtelar, Kiehn and Reichert",
+      "rating": 5,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1598584152721,
+      "to": 1599207935874
+    },
+    "roomsAmount": 1,
+    "maxPersonInRoom": 6,
+    "pricePerPerson": 1692,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510858fc13ae166e00007c",
+    "hotel": {
+      "name": "Abernathy Inc",
+      "rating": 5,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1599089824213,
+      "to": 1599397283395
+    },
+    "roomsAmount": 1,
+    "maxPersonInRoom": 5,
+    "pricePerPerson": 2339,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510858fc13ae166e00007d",
+    "hotel": {
+      "name": "Bogisich-Armstrong",
+      "rating": 4,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1598797800796,
+      "to": 1599744800035
+    },
+    "roomsAmount": 2,
+    "maxPersonInRoom": 5,
+    "pricePerPerson": 1865,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510858fc13ae166e00007e",
+    "hotel": {
+      "name": "Auer-Wolff",
+      "rating": 1,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1599126291158,
+      "to": 1599671950041
+    },
+    "roomsAmount": 1,
+    "maxPersonInRoom": 4,
+    "pricePerPerson": 4552,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510858fc13ae166e00007f",
+    "hotel": {
+      "name": "Ferry LLC",
+      "rating": 5,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1599134929442,
+      "to": 1599662461013
+    },
+    "roomsAmount": 2,
+    "maxPersonInRoom": 6,
+    "pricePerPerson": 3491,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510858fc13ae166e000080",
+    "hotel": {
+      "name": "Trantow, Spinka and Gutkowski",
+      "rating": 4,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1598619845429,
+      "to": 1599631764426
+    },
+    "roomsAmount": 1,
+    "maxPersonInRoom": 3,
+    "pricePerPerson": 4195,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510858fc13ae166e000081",
+    "hotel": {
+      "name": "Altenwerth, Rutherford and Stamm",
+      "rating": 1,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1598558948754,
+      "to": 1599573503800
+    },
+    "roomsAmount": 2,
+    "maxPersonInRoom": 3,
+    "pricePerPerson": 4343,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510858fc13ae166e000082",
+    "hotel": {
+      "name": "Rath-Schmitt",
+      "rating": 3,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1598684266122,
+      "to": 1599710017705
+    },
+    "roomsAmount": 2,
+    "maxPersonInRoom": 3,
+    "pricePerPerson": 2651,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510858fc13ae166e000083",
+    "hotel": {
+      "name": "Altenwerth, Nicolas and Cormier",
+      "rating": 5,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1598558266947,
+      "to": 1599630350280
+    },
+    "roomsAmount": 2,
+    "maxPersonInRoom": 4,
+    "pricePerPerson": 3592,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510858fc13ae166e000084",
+    "hotel": {
+      "name": "Casper Group",
+      "rating": 5,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1599136539015,
+      "to": 1599550022037
+    },
+    "roomsAmount": 1,
+    "maxPersonInRoom": 3,
+    "pricePerPerson": 500,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510858fc13ae166e000085",
+    "hotel": {
+      "name": "Jaskolski, Walter and Ratke",
+      "rating": 5,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1598991474989,
+      "to": 1599360657587
+    },
+    "roomsAmount": 2,
+    "maxPersonInRoom": 5,
+    "pricePerPerson": 3431,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510858fc13ae166e000086",
+    "hotel": {
+      "name": "Schumm, Jakubowski and Schneider",
+      "rating": 4,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1598780145808,
+      "to": 1599331093283
+    },
+    "roomsAmount": 2,
+    "maxPersonInRoom": 6,
+    "pricePerPerson": 3191,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510858fc13ae166e000087",
+    "hotel": {
+      "name": "Douglas-Koepp",
+      "rating": 1,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1598878940011,
+      "to": 1599180461171
+    },
+    "roomsAmount": 1,
+    "maxPersonInRoom": 4,
+    "pricePerPerson": 3952,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510858fc13ae166e000088",
+    "hotel": {
+      "name": "Murazik-Stoltenberg",
+      "rating": 1,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1599043423085,
+      "to": 1599654000269
+    },
+    "roomsAmount": 1,
+    "maxPersonInRoom": 2,
+    "pricePerPerson": 4412,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510858fc13ae166e000089",
+    "hotel": {
+      "name": "Treutel LLC",
+      "rating": 2,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1598645338089,
+      "to": 1599150228313
+    },
+    "roomsAmount": 2,
+    "maxPersonInRoom": 6,
+    "pricePerPerson": 2964,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510858fc13ae166e00008a",
+    "hotel": {
+      "name": "Lemke Group",
+      "rating": 3,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1598783234459,
+      "to": 1599487461861
+    },
+    "roomsAmount": 1,
+    "maxPersonInRoom": 6,
+    "pricePerPerson": 4961,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510858fc13ae166e00008b",
+    "hotel": {
+      "name": "Kris-Aufderhar",
+      "rating": 5,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1598645245447,
+      "to": 1599572672174
+    },
+    "roomsAmount": 1,
+    "maxPersonInRoom": 4,
+    "pricePerPerson": 4536,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510858fc13ae166e00008c",
+    "hotel": {
+      "name": "Jast-Rogahn",
+      "rating": 5,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1598903906738,
+      "to": 1599202493467
+    },
+    "roomsAmount": 1,
+    "maxPersonInRoom": 5,
+    "pricePerPerson": 4661,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510858fc13ae166e00008d",
+    "hotel": {
+      "name": "Wilkinson LLC",
+      "rating": 3,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1599059144578,
+      "to": 1599346712214
+    },
+    "roomsAmount": 2,
+    "maxPersonInRoom": 3,
+    "pricePerPerson": 4338,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510858fc13ae166e00008e",
+    "hotel": {
+      "name": "Stracke LLC",
+      "rating": 1,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1598691530484,
+      "to": 1599665369931
+    },
+    "roomsAmount": 2,
+    "maxPersonInRoom": 2,
+    "pricePerPerson": 1721,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510858fc13ae166e00008f",
+    "hotel": {
+      "name": "Gulgowski Group",
+      "rating": 4,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1598548349985,
+      "to": 1599563575250
+    },
+    "roomsAmount": 1,
+    "maxPersonInRoom": 4,
+    "pricePerPerson": 1605,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510858fc13ae166e000090",
+    "hotel": {
+      "name": "Ward Group",
+      "rating": 5,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1598888230222,
+      "to": 1599174802028
+    },
+    "roomsAmount": 2,
+    "maxPersonInRoom": 6,
+    "pricePerPerson": 4493,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510858fc13ae166e000091",
+    "hotel": {
+      "name": "Ankunding Group",
+      "rating": 5,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1598982499717,
+      "to": 1599185697145
+    },
+    "roomsAmount": 1,
+    "maxPersonInRoom": 3,
+    "pricePerPerson": 4526,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510858fc13ae166e000092",
+    "hotel": {
+      "name": "Osinski-Bergstrom",
+      "rating": 1,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1599003174938,
+      "to": 1599585858279
+    },
+    "roomsAmount": 1,
+    "maxPersonInRoom": 3,
+    "pricePerPerson": 2444,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510858fc13ae166e000093",
+    "hotel": {
+      "name": "Dickinson-Wilkinson",
+      "rating": 5,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1598847461917,
+      "to": 1599168730684
+    },
+    "roomsAmount": 1,
+    "maxPersonInRoom": 2,
+    "pricePerPerson": 4186,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510858fc13ae166e000094",
+    "hotel": {
+      "name": "Hills LLC",
+      "rating": 2,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1599085917834,
+      "to": 1599748804347
+    },
+    "roomsAmount": 2,
+    "maxPersonInRoom": 6,
+    "pricePerPerson": 723,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510859fc13ae166e000095",
+    "hotel": {
+      "name": "Kshlerin, Stroman and Swift",
+      "rating": 3,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1598842808565,
+      "to": 1599194930105
+    },
+    "roomsAmount": 1,
+    "maxPersonInRoom": 4,
+    "pricePerPerson": 783,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510859fc13ae166e000096",
+    "hotel": {
+      "name": "Konopelski LLC",
+      "rating": 5,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1599134380481,
+      "to": 1599408647249
+    },
+    "roomsAmount": 2,
+    "maxPersonInRoom": 2,
+    "pricePerPerson": 709,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510859fc13ae166e000097",
+    "hotel": {
+      "name": "Auer and Sons",
+      "rating": 1,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1598841659182,
+      "to": 1599627225929
+    },
+    "roomsAmount": 1,
+    "maxPersonInRoom": 4,
+    "pricePerPerson": 2413,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510859fc13ae166e000098",
+    "hotel": {
+      "name": "Sanford-Franecki",
+      "rating": 4,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1598924271142,
+      "to": 1599306224330
+    },
+    "roomsAmount": 1,
+    "maxPersonInRoom": 2,
+    "pricePerPerson": 950,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510859fc13ae166e000099",
+    "hotel": {
+      "name": "Lemke-Schamberger",
+      "rating": 2,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1598752525095,
+      "to": 1599155594755
+    },
+    "roomsAmount": 2,
+    "maxPersonInRoom": 2,
+    "pricePerPerson": 4643,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510859fc13ae166e00009a",
+    "hotel": {
+      "name": "Schoen-Strosin",
+      "rating": 4,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1598566416184,
+      "to": 1599272199645
+    },
+    "roomsAmount": 2,
+    "maxPersonInRoom": 5,
+    "pricePerPerson": 2356,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510859fc13ae166e00009b",
+    "hotel": {
+      "name": "Nolan-Klocko",
+      "rating": 1,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1598558737421,
+      "to": 1599151763101
+    },
+    "roomsAmount": 1,
+    "maxPersonInRoom": 6,
+    "pricePerPerson": 3771,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510859fc13ae166e00009c",
+    "hotel": {
+      "name": "Windler Inc",
+      "rating": 2,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1599093045741,
+      "to": 1599160201879
+    },
+    "roomsAmount": 2,
+    "maxPersonInRoom": 5,
+    "pricePerPerson": 1747,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510859fc13ae166e00009d",
+    "hotel": {
+      "name": "Gutkowski Inc",
+      "rating": 5,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1598710488241,
+      "to": 1599249288217
+    },
+    "roomsAmount": 2,
+    "maxPersonInRoom": 2,
+    "pricePerPerson": 1495,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510859fc13ae166e00009e",
+    "hotel": {
+      "name": "Gleichner-Rempel",
+      "rating": 1,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1598669435528,
+      "to": 1599482820070
+    },
+    "roomsAmount": 2,
+    "maxPersonInRoom": 3,
+    "pricePerPerson": 2066,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510859fc13ae166e00009f",
+    "hotel": {
+      "name": "Kris-Schoen",
+      "rating": 2,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1598967505613,
+      "to": 1599439728604
+    },
+    "roomsAmount": 2,
+    "maxPersonInRoom": 5,
+    "pricePerPerson": 1396,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510859fc13ae166e0000a0",
+    "hotel": {
+      "name": "Bosco-Fay",
+      "rating": 1,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1598781925960,
+      "to": 1599212181884
+    },
+    "roomsAmount": 1,
+    "maxPersonInRoom": 4,
+    "pricePerPerson": 1003,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510859fc13ae166e0000a1",
+    "hotel": {
+      "name": "Jacobi-Mraz",
+      "rating": 2,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1598659646872,
+      "to": 1599749897898
+    },
+    "roomsAmount": 2,
+    "maxPersonInRoom": 6,
+    "pricePerPerson": 4281,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510859fc13ae166e0000a2",
+    "hotel": {
+      "name": "Cormier, Satterfield and Rosenbaum",
+      "rating": 1,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1598905068762,
+      "to": 1599369597573
+    },
+    "roomsAmount": 1,
+    "maxPersonInRoom": 5,
+    "pricePerPerson": 1240,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510859fc13ae166e0000a3",
+    "hotel": {
+      "name": "Hansen and Sons",
+      "rating": 5,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1599109576518,
+      "to": 1599319925335
+    },
+    "roomsAmount": 1,
+    "maxPersonInRoom": 3,
+    "pricePerPerson": 797,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510859fc13ae166e0000a4",
+    "hotel": {
+      "name": "Willms-Jacobson",
+      "rating": 3,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1598621951266,
+      "to": 1599682902974
+    },
+    "roomsAmount": 2,
+    "maxPersonInRoom": 4,
+    "pricePerPerson": 2226,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510859fc13ae166e0000a5",
+    "hotel": {
+      "name": "Upton-Satterfield",
+      "rating": 5,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1598587809565,
+      "to": 1599664618662
+    },
+    "roomsAmount": 2,
+    "maxPersonInRoom": 6,
+    "pricePerPerson": 3325,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510859fc13ae166e0000a6",
+    "hotel": {
+      "name": "Herman, McCullough and Rau",
+      "rating": 3,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1598601934114,
+      "to": 1599633920808
+    },
+    "roomsAmount": 1,
+    "maxPersonInRoom": 3,
+    "pricePerPerson": 871,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510859fc13ae166e0000a7",
+    "hotel": {
+      "name": "Funk, Ortiz and Walsh",
+      "rating": 1,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1598636952996,
+      "to": 1599736396417
+    },
+    "roomsAmount": 1,
+    "maxPersonInRoom": 3,
+    "pricePerPerson": 4723,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510859fc13ae166e0000a8",
+    "hotel": {
+      "name": "Lubowitz, Hickle and Bernhard",
+      "rating": 4,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1598583421827,
+      "to": 1599526628258
+    },
+    "roomsAmount": 2,
+    "maxPersonInRoom": 5,
+    "pricePerPerson": 4222,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510859fc13ae166e0000a9",
+    "hotel": {
+      "name": "Von, Dach and Lesch",
+      "rating": 5,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1598852575338,
+      "to": 1599640748552
+    },
+    "roomsAmount": 2,
+    "maxPersonInRoom": 5,
+    "pricePerPerson": 576,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510859fc13ae166e0000aa",
+    "hotel": {
+      "name": "Blanda, Rogahn and Goodwin",
+      "rating": 4,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1598576369136,
+      "to": 1599467892818
+    },
+    "roomsAmount": 2,
+    "maxPersonInRoom": 5,
+    "pricePerPerson": 4490,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510859fc13ae166e0000ab",
+    "hotel": {
+      "name": "Koelpin Group",
+      "rating": 4,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1599139258579,
+      "to": 1599568573023
+    },
+    "roomsAmount": 2,
+    "maxPersonInRoom": 2,
+    "pricePerPerson": 1245,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510859fc13ae166e0000ac",
+    "hotel": {
+      "name": "Turner, Reichel and Kunze",
+      "rating": 2,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1599134330924,
+      "to": 1599419565387
+    },
+    "roomsAmount": 2,
+    "maxPersonInRoom": 5,
+    "pricePerPerson": 2391,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510859fc13ae166e0000ad",
+    "hotel": {
+      "name": "Sanford, Bradtke and Conn",
+      "rating": 1,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1598966944468,
+      "to": 1599459085877
+    },
+    "roomsAmount": 1,
+    "maxPersonInRoom": 5,
+    "pricePerPerson": 1333,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510859fc13ae166e0000ae",
+    "hotel": {
+      "name": "Aufderhar-Legros",
+      "rating": 5,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1598633354445,
+      "to": 1599436408894
+    },
+    "roomsAmount": 2,
+    "maxPersonInRoom": 2,
+    "pricePerPerson": 2239,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510859fc13ae166e0000af",
+    "hotel": {
+      "name": "Hackett-Towne",
+      "rating": 1,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1598758329147,
+      "to": 1599374585069
+    },
+    "roomsAmount": 2,
+    "maxPersonInRoom": 4,
+    "pricePerPerson": 1471,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510859fc13ae166e0000b0",
+    "hotel": {
+      "name": "Padberg-Hamill",
+      "rating": 1,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1598911914507,
+      "to": 1599213834844
+    },
+    "roomsAmount": 1,
+    "maxPersonInRoom": 3,
+    "pricePerPerson": 3417,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510859fc13ae166e0000b1",
+    "hotel": {
+      "name": "Prohaska Group",
+      "rating": 2,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1598946756400,
+      "to": 1599552125497
+    },
+    "roomsAmount": 2,
+    "maxPersonInRoom": 2,
+    "pricePerPerson": 1260,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510859fc13ae166e0000b2",
+    "hotel": {
+      "name": "Conn Group",
+      "rating": 3,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1599070253804,
+      "to": 1599562992018
+    },
+    "roomsAmount": 2,
+    "maxPersonInRoom": 6,
+    "pricePerPerson": 4615,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510859fc13ae166e0000b3",
+    "hotel": {
+      "name": "Klein and Sons",
+      "rating": 1,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1598850133649,
+      "to": 1599455605940
+    },
+    "roomsAmount": 1,
+    "maxPersonInRoom": 2,
+    "pricePerPerson": 3523,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510859fc13ae166e0000b4",
+    "hotel": {
+      "name": "Medhurst-Boehm",
+      "rating": 4,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1598814889130,
+      "to": 1599366379384
+    },
+    "roomsAmount": 1,
+    "maxPersonInRoom": 5,
+    "pricePerPerson": 534,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510859fc13ae166e0000b5",
+    "hotel": {
+      "name": "Leffler and Sons",
+      "rating": 2,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1598860217601,
+      "to": 1599645596665
+    },
+    "roomsAmount": 1,
+    "maxPersonInRoom": 4,
+    "pricePerPerson": 1992,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510859fc13ae166e0000b6",
+    "hotel": {
+      "name": "Murray-Ziemann",
+      "rating": 1,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1598775838118,
+      "to": 1599633435531
+    },
+    "roomsAmount": 1,
+    "maxPersonInRoom": 2,
+    "pricePerPerson": 2863,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510859fc13ae166e0000b7",
+    "hotel": {
+      "name": "Runolfsson-Schumm",
+      "rating": 2,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1598912500460,
+      "to": 1599506252803
+    },
+    "roomsAmount": 2,
+    "maxPersonInRoom": 4,
+    "pricePerPerson": 2756,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510859fc13ae166e0000b8",
+    "hotel": {
+      "name": "Auer, Schinner and Schowalter",
+      "rating": 5,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1598955239326,
+      "to": 1599190682510
+    },
+    "roomsAmount": 1,
+    "maxPersonInRoom": 3,
+    "pricePerPerson": 1753,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510859fc13ae166e0000b9",
+    "hotel": {
+      "name": "Larson-Haag",
+      "rating": 4,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1598870963908,
+      "to": 1599284172739
+    },
+    "roomsAmount": 2,
+    "maxPersonInRoom": 2,
+    "pricePerPerson": 3871,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510859fc13ae166e0000ba",
+    "hotel": {
+      "name": "Swaniawski, Lynch and Marks",
+      "rating": 3,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1598627536473,
+      "to": 1599713970157
+    },
+    "roomsAmount": 2,
+    "maxPersonInRoom": 5,
+    "pricePerPerson": 2739,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510859fc13ae166e0000bb",
+    "hotel": {
+      "name": "Gorczany-Watsica",
+      "rating": 3,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1598607608748,
+      "to": 1599418939938
+    },
+    "roomsAmount": 2,
+    "maxPersonInRoom": 2,
+    "pricePerPerson": 2291,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510859fc13ae166e0000bc",
+    "hotel": {
+      "name": "Jerde, Glover and Konopelski",
+      "rating": 4,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1598909554801,
+      "to": 1599666299496
+    },
+    "roomsAmount": 2,
+    "maxPersonInRoom": 6,
+    "pricePerPerson": 2067,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510859fc13ae166e0000bd",
+    "hotel": {
+      "name": "Volkman, Kuhn and Legros",
+      "rating": 2,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1598623318169,
+      "to": 1599497082678
+    },
+    "roomsAmount": 1,
+    "maxPersonInRoom": 4,
+    "pricePerPerson": 3331,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510859fc13ae166e0000be",
+    "hotel": {
+      "name": "McLaughlin, Flatley and Jacobson",
+      "rating": 2,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1599104041864,
+      "to": 1599458643127
+    },
+    "roomsAmount": 2,
+    "maxPersonInRoom": 2,
+    "pricePerPerson": 3556,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510859fc13ae166e0000bf",
+    "hotel": {
+      "name": "Toy Inc",
+      "rating": 5,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1598717088300,
+      "to": 1599588457705
+    },
+    "roomsAmount": 1,
+    "maxPersonInRoom": 2,
+    "pricePerPerson": 2401,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510859fc13ae166e0000c0",
+    "hotel": {
+      "name": "Bayer-Ziemann",
+      "rating": 3,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1598635785253,
+      "to": 1599158405657
+    },
+    "roomsAmount": 2,
+    "maxPersonInRoom": 5,
+    "pricePerPerson": 3626,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510859fc13ae166e0000c1",
+    "hotel": {
+      "name": "Littel, Cummings and Lowe",
+      "rating": 1,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1598713203023,
+      "to": 1599190658593
+    },
+    "roomsAmount": 1,
+    "maxPersonInRoom": 3,
+    "pricePerPerson": 4135,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510859fc13ae166e0000c2",
+    "hotel": {
+      "name": "Ratke-Denesik",
+      "rating": 1,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1599058955388,
+      "to": 1599565315092
+    },
+    "roomsAmount": 2,
+    "maxPersonInRoom": 2,
+    "pricePerPerson": 4202,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510859fc13ae166e0000c3",
+    "hotel": {
+      "name": "Bailey-Crist",
+      "rating": 2,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1598920710864,
+      "to": 1599315951580
+    },
+    "roomsAmount": 1,
+    "maxPersonInRoom": 3,
+    "pricePerPerson": 949,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510859fc13ae166e0000c4",
+    "hotel": {
+      "name": "Collins-Ondricka",
+      "rating": 4,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1599034156978,
+      "to": 1599428736864
+    },
+    "roomsAmount": 1,
+    "maxPersonInRoom": 3,
+    "pricePerPerson": 2254,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510859fc13ae166e0000c5",
+    "hotel": {
+      "name": "Flatley Inc",
+      "rating": 4,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1599013797139,
+      "to": 1599448588664
+    },
+    "roomsAmount": 2,
+    "maxPersonInRoom": 2,
+    "pricePerPerson": 4008,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510859fc13ae166e0000c6",
+    "hotel": {
+      "name": "Herman, Harber and Kerluke",
+      "rating": 5,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1598764569214,
+      "to": 1599678537532
+    },
+    "roomsAmount": 2,
+    "maxPersonInRoom": 4,
+    "pricePerPerson": 2894,
+    "coin": "USD"
+  },
+  {
+    "id": "5f510859fc13ae166e0000c7",
+    "hotel": {
+      "name": "Reichert-Kohler",
+      "rating": 1,
+      "location": "Tel-Aviv",
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+    },
+    "period": {
+      "from": 1599040667523,
+      "to": 1599684406217
+    },
+    "roomsAmount": 2,
+    "maxPersonInRoom": 4,
+    "pricePerPerson": 734,
+    "coin": "USD"
+  }
+]

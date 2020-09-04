@@ -1,0 +1,138 @@
+// small mobile
+@media (min-width: 64px) and (max-width: 279px) {
+  html {
+    font-size: 12px;
+  }
+}
+// medium mobile
+@media (min-width: 280px) and (max-width: 479px) {
+  html {
+    font-size: 14px;
+  }
+}
+// large mobile
+@media (min-width: 480px) and (max-width: 767px) {
+  .vacation-list-item .details {
+    .wrap-btn {
+      grid-area: 1 / 2 / 3 / 2;
+      display: flex;
+      justify-content: center;
+      align-items: flex-end;
+    }
+  }
+}
+
+// All mobile
+@media (min-width: 64px) and (max-width: 767px) {
+}
+
+// All desktop
+@media (min-width: 768px) {
+  .vacation-list {
+    .list-filter {
+      grid-area: 1 / 1 / 3 / 1;
+    }
+    .product-list {
+      grid-area: auto;
+    }
+  }
+  .vacation-list-item .details {
+    .wrap-btn {
+      grid-area: 1 / 2 / 3 / 2;
+      display: flex;
+      justify-content: flex-end;
+      align-items: flex-end;
+    }
+  }
+}
+
+// small desktop
+@media (min-width: 768px) and (max-width: 1023px) {
+  .vacation-list {
+    grid-template: 1fr / 1fr 2fr;
+    padding-left: var(--left-right-padding);
+    padding-right: var(--left-right-padding);
+  }
+}
+
+// above all small desktop
+@media (min-width: 1023px) {
+  .vacation-list-item {
+    grid-template: 1fr/ 1fr 3fr 1fr;
+    .details {
+      grid-area: auto;
+    }
+  }
+}
+
+@media (min-width: 1024px) and (max-width: 1419px) {
+  .vacation-list {
+    grid-template: 1fr / 1fr 2.5fr;
+    padding-left: var(--left-right-padding);
+    padding-right: var(--left-right-padding);
+  }
+}
+
+// above all medium desktop
+@media (min-width: 1419px) {
+  .vacation-list {
+    grid-template: 1fr / 1fr 3fr;
+  }
+}
+
+// medium desktop
+@media (min-width: 1420px) and (max-width: 1699px) {
+  .vacation-list {
+    padding-left: var(--left-right-padding);
+    padding-right: var(--left-right-padding);
+  }
+}
+
+// large desktop
+@media (min-width: 1700px) and (max-width: 1919px) {
+  html {
+    font-size: 18px;
+  }
+  .vacation-list {
+    max-width: 1500px;
+  }
+}
+
+// above all large desktop
+@media (min-width: 1919px) {
+  .vacation-list-item {
+    .wrap-image {
+      max-width: 240px;
+    }
+    .wrap-price {
+      max-width: 240px;
+    }
+  }
+}
+
+// Xlarge desktop
+@media (min-width: 1920px) and (max-width: 2399px) {
+  html {
+    font-size: 20px;
+  }
+  .vacation-list {
+    max-width: 1750px;
+  }
+}
+// XXlarge desktop
+@media (min-width: 2400px) {
+  html {
+    font-size: 22px;
+  }
+  .vacation-list {
+    max-width: 2000px;
+  }
+  .vacation-list-item {
+    .wrap-image {
+      max-width: 260px;
+    }
+    .wrap-price {
+      max-width: 260px;
+    }
+  }
+}

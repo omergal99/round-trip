@@ -10,9 +10,24 @@
   display: flex;
 }
 
+.flex-wrap {
+  flex-wrap: wrap;
+}
+
 .flex-center {
   display: flex;
   justify-content: center;
+  align-items: center;
+}
+
+.space-center {
+  display: flex;
+  justify-content: center;
+}
+
+.flex-between {
+  display: flex;
+  justify-content: space-between;
   align-items: center;
 }
 
@@ -25,6 +40,15 @@
   display: flex;
   justify-content: space-around;
   justify-content: space-evenly;
+}
+
+.flex-grow {
+  flex-grow: 1;
+}
+
+.flex-end {
+  display: flex;
+  justify-content: flex-end;
 }
 
 /********** Text **********/
@@ -42,3 +66,4 @@
 .inline-block {
   display: inline-block;
 }
+

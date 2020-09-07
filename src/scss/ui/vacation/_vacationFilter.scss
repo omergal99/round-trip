@@ -1,0 +1,74 @@
+.list-filter {
+  border-radius: 3px;
+  background-color: var(--blue);
+  color: var(--font-color);
+  text-align: var(--direction-name);
+  position: relative;
+  & * {
+    font-family: "Segoe UI", "Roboto", "Oxygen", "Ubuntu", sans-serif;
+    font-weight: 400;
+  }
+  .header-title {
+    padding: 1.25rem 1.75rem;
+    border-bottom: 2px solid var(--font-color);
+    transition: all 0.3s;
+    position: relative;
+    &.isMobile {
+      cursor: pointer;
+      z-index: 200;
+      border-radius: 3px;
+      padding: 1rem 0.5rem;
+      &.close {
+        border-color: transparent;
+        &:hover {
+          background-color: var(--blue-hover);
+        }
+      }
+    }
+  }
+
+  .main {
+    background-color: var(--blue);
+    padding: 1rem;
+    border-radius: 0 0 3px 3px;
+    &.mobile {
+      position: absolute;
+      right: 0;
+      left: 0;
+      margin: auto;
+      width: 18rem;
+      min-width: 70%;
+      max-width: 100%;
+      z-index: 200;
+      animation: opacity 0.3s;
+    }
+    hr {
+      margin: 0.5rem 0.75rem;
+      border-block-start: none;
+    }
+    h3 {
+      padding: 0.75rem;
+    }
+    .filter-hotel-ratings {
+      .ratings {
+        padding: 0 0 0.5rem 0.75rem;
+      }
+    }
+    .filter-price-per-person {
+      .wrap-range-price-per-person {
+        padding: 0 0.75rem 0.5rem 0.75rem;
+      }
+    }
+    .filter-base-hosting {
+      .base-hosting {
+        padding: 0 0 0.5rem 0.75rem;
+        & * {
+          font-weight: 200;
+        }
+      }
+    }
+    .filter-search-words {
+      padding: 1.5rem 0.75rem;
+    }
+  }
+}

@@ -1,0 +1,13 @@
+.vacations {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  grid-template: 1fr / 1fr 1fr;
+  margin: 0 auto;
+  padding: 2rem 0.5rem;
+  max-width: 85rem;
+  transition: all 0.3s;
+  .vacation-list {
+    grid-area: 2 / 1 / 2 / 3;
+  }
+}

@@ -1,0 +1,81 @@
+.vacation-list-item {
+  display: grid;
+  grid-gap: 0.5rem;
+  padding: 0.5rem 0;
+  grid-template: 1fr / 1fr 1fr;
+  transition: all 0.3s;
+  &:last-child {
+    padding: 0.5rem 0 0;
+  }
+  .wrap-image,
+  .wrap-price {
+    height: 9rem;
+    max-height: 12rem;
+    margin: auto;
+  }
+  .wrap-image {
+    .image {
+      border-radius: 3px;
+      height: 100%;
+      object-fit: cover;
+      width: 100%;
+    }
+  }
+  .details {
+    display: grid;
+    grid-template: 1fr 0.5fr / 1fr 1fr;
+    border-radius: 3px;
+    grid-area: 2 / 1 / 2 / 3;
+    padding: 0.75rem 1.25rem 0.75rem 0.75rem;
+    border: 1px solid rgb(160, 160, 160);
+    text-align: var(--direction-name);
+    & * {
+      font-family: "Segoe UI", "Roboto", "Oxygen", "Ubuntu", sans-serif;
+    }
+    .wrap-title {
+      display: flex;
+      flex-direction: column;
+      justify-content: normal;
+      .title {
+        font-weight: 500;
+        color: var(--lightblue);
+      }
+    }
+    .summary {
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+    }
+    .wrap-btn {
+      grid-area: 2 / 1 / 2 / 3;
+      padding: 0.5rem 0 0;
+      display: flex;
+      justify-content: center;
+      align-items: flex-end;
+      & * {
+        font-weight: 400;
+      }
+    }
+  }
+  .wrap-price {
+    width: 100%;
+    border-radius: 3px;
+    padding: 0.75rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(225, 231, 236);
+    border: 1px solid rgb(160, 160, 160);
+    color: var(--lightblue);
+    .price {
+      padding-top: 0.5rem;
+      font-size: 1.75rem;
+      font-family: "Segoe UI", "Roboto", "Oxygen", "Ubuntu", sans-serif;
+    }
+    .text {
+      font-size: 0.8rem;
+      font-family: "Segoe UI", "Roboto", "Oxygen", "Ubuntu", sans-serif;
+    }
+  }
+}

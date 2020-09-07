@@ -5,7 +5,9 @@
       "name": "Rolfson-Klocko",
       "rating": 4,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1599134737911,
@@ -20,9 +22,11 @@
     "id": "5f510858fc13ae166e000065",
     "hotel": {
       "name": "Howe, Littel and Spencer",
-      "rating": 1,
+      "rating": 5,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1599004707360,
@@ -37,9 +41,11 @@
     "id": "5f510858fc13ae166e000066",
     "hotel": {
       "name": "Gleichner and Sons",
-      "rating": 4,
+      "rating": 3,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": false,
+      "lodging": false
     },
     "period": {
       "from": 1598878526474,
@@ -54,9 +60,11 @@
     "id": "5f510858fc13ae166e000067",
     "hotel": {
       "name": "Tillman, Ziemann and Haley",
-      "rating": 4,
+      "rating": 2,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1599065802808,
@@ -71,9 +79,11 @@
     "id": "5f510858fc13ae166e000068",
     "hotel": {
       "name": "Tromp and Sons",
-      "rating": 2,
+      "rating": 1,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": false,
+      "lodging": true
     },
     "period": {
       "from": 1598545461091,
@@ -87,10 +97,12 @@
   {
     "id": "5f510858fc13ae166e000069",
     "hotel": {
-      "name": "Wiza-Rempel",
+      "name": "Tromp and Sons",
       "rating": 3,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1598690242865,
@@ -107,7 +119,9 @@
       "name": "Boyer-Botsford",
       "rating": 3,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1598587564632,
@@ -124,7 +138,9 @@
       "name": "Breitenberg LLC",
       "rating": 5,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1599036875974,
@@ -141,7 +157,9 @@
       "name": "Beatty Inc",
       "rating": 4,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1599132952151,
@@ -155,10 +173,12 @@
   {
     "id": "5f510858fc13ae166e00006d",
     "hotel": {
-      "name": "Dooley and Sons",
+      "name": "Gleichner and Sons",
       "rating": 1,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1598711494671,
@@ -175,7 +195,9 @@
       "name": "Runolfsdottir-Mayert",
       "rating": 4,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1599006298622,
@@ -190,9 +212,11 @@
     "id": "5f510858fc13ae166e00006f",
     "hotel": {
       "name": "Marquardt Group",
-      "rating": 4,
+      "rating": 2,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1598655205505,
@@ -209,7 +233,9 @@
       "name": "Tremblay-Funk",
       "rating": 4,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1598958466432,
@@ -226,7 +252,9 @@
       "name": "Cummings-Nader",
       "rating": 2,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1598638041132,
@@ -243,7 +271,9 @@
       "name": "Runolfsdottir, Hermann and Farrell",
       "rating": 3,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1598546182304,
@@ -260,7 +290,9 @@
       "name": "Mraz, Rolfson and Williamson",
       "rating": 5,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1599138021458,
@@ -277,7 +309,9 @@
       "name": "Parisian-Cartwright",
       "rating": 2,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1598732757282,
@@ -294,7 +328,9 @@
       "name": "Schmitt, Sipes and Powlowski",
       "rating": 2,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1598704480965,
@@ -311,7 +347,9 @@
       "name": "Dicki Inc",
       "rating": 2,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": false,
+      "lodging": true
     },
     "period": {
       "from": 1598676363738,
@@ -328,7 +366,9 @@
       "name": "Lang and Sons",
       "rating": 5,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1599045792020,
@@ -345,7 +385,9 @@
       "name": "Will-Powlowski",
       "rating": 5,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": false
     },
     "period": {
       "from": 1598674645400,
@@ -362,7 +404,9 @@
       "name": "Morissette Group",
       "rating": 2,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1598839224102,
@@ -379,7 +423,9 @@
       "name": "Raynor-Hills",
       "rating": 5,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1598607532441,
@@ -396,7 +442,9 @@
       "name": "Bechtelar, Kiehn and Reichert",
       "rating": 5,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1598584152721,
@@ -413,7 +461,9 @@
       "name": "Abernathy Inc",
       "rating": 5,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1599089824213,
@@ -430,7 +480,9 @@
       "name": "Bogisich-Armstrong",
       "rating": 4,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1598797800796,
@@ -447,7 +499,9 @@
       "name": "Auer-Wolff",
       "rating": 1,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": false
     },
     "period": {
       "from": 1599126291158,
@@ -464,7 +518,9 @@
       "name": "Ferry LLC",
       "rating": 5,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": false,
+      "lodging": true
     },
     "period": {
       "from": 1599134929442,
@@ -478,10 +534,12 @@
   {
     "id": "5f510858fc13ae166e000080",
     "hotel": {
-      "name": "Trantow, Spinka and Gutkowski",
+      "name": "Gleichner and Sons",
       "rating": 4,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1598619845429,
@@ -495,10 +553,12 @@
   {
     "id": "5f510858fc13ae166e000081",
     "hotel": {
-      "name": "Altenwerth, Rutherford and Stamm",
+      "name": "Tromp and Sons",
       "rating": 1,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1598558948754,
@@ -515,7 +575,9 @@
       "name": "Rath-Schmitt",
       "rating": 3,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1598684266122,
@@ -532,7 +594,9 @@
       "name": "Altenwerth, Nicolas and Cormier",
       "rating": 5,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1598558266947,
@@ -547,9 +611,11 @@
     "id": "5f510858fc13ae166e000084",
     "hotel": {
       "name": "Casper Group",
-      "rating": 5,
+      "rating": 1,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": false,
+      "lodging": true
     },
     "period": {
       "from": 1599136539015,
@@ -557,16 +623,18 @@
     },
     "roomsAmount": 1,
     "maxPersonInRoom": 3,
-    "pricePerPerson": 500,
+    "pricePerPerson": 520,
     "coin": "USD"
   },
   {
     "id": "5f510858fc13ae166e000085",
     "hotel": {
-      "name": "Jaskolski, Walter and Ratke",
+      "name": "Rolfson-Klocko",
       "rating": 5,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1598991474989,
@@ -583,7 +651,9 @@
       "name": "Schumm, Jakubowski and Schneider",
       "rating": 4,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1598780145808,
@@ -600,7 +670,9 @@
       "name": "Douglas-Koepp",
       "rating": 1,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1598878940011,
@@ -617,7 +689,9 @@
       "name": "Murazik-Stoltenberg",
       "rating": 1,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1599043423085,
@@ -634,7 +708,9 @@
       "name": "Treutel LLC",
       "rating": 2,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1598645338089,
@@ -648,10 +724,12 @@
   {
     "id": "5f510858fc13ae166e00008a",
     "hotel": {
-      "name": "Lemke Group",
+      "name": "Howe, Littel and Spencer",
       "rating": 3,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1598783234459,
@@ -668,7 +746,9 @@
       "name": "Kris-Aufderhar",
       "rating": 5,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1598645245447,
@@ -685,7 +765,9 @@
       "name": "Jast-Rogahn",
       "rating": 5,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1598903906738,
@@ -702,7 +784,9 @@
       "name": "Wilkinson LLC",
       "rating": 3,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1599059144578,
@@ -719,7 +803,9 @@
       "name": "Stracke LLC",
       "rating": 1,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1598691530484,
@@ -736,7 +822,9 @@
       "name": "Gulgowski Group",
       "rating": 4,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1598548349985,
@@ -753,7 +841,9 @@
       "name": "Ward Group",
       "rating": 5,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1598888230222,
@@ -770,7 +860,9 @@
       "name": "Ankunding Group",
       "rating": 5,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1598982499717,
@@ -784,10 +876,12 @@
   {
     "id": "5f510858fc13ae166e000092",
     "hotel": {
-      "name": "Osinski-Bergstrom",
+      "name": "Gleichner and Sons",
       "rating": 1,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1599003174938,
@@ -804,7 +898,9 @@
       "name": "Dickinson-Wilkinson",
       "rating": 5,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1598847461917,
@@ -821,7 +917,9 @@
       "name": "Hills LLC",
       "rating": 2,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1599085917834,
@@ -838,7 +936,9 @@
       "name": "Kshlerin, Stroman and Swift",
       "rating": 3,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1598842808565,
@@ -855,7 +955,9 @@
       "name": "Konopelski LLC",
       "rating": 5,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1599134380481,
@@ -872,7 +974,9 @@
       "name": "Auer and Sons",
       "rating": 1,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1598841659182,
@@ -889,7 +993,9 @@
       "name": "Sanford-Franecki",
       "rating": 4,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1598924271142,
@@ -906,7 +1012,9 @@
       "name": "Lemke-Schamberger",
       "rating": 2,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1598752525095,
@@ -923,7 +1031,9 @@
       "name": "Schoen-Strosin",
       "rating": 4,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1598566416184,
@@ -937,10 +1047,12 @@
   {
     "id": "5f510859fc13ae166e00009b",
     "hotel": {
-      "name": "Nolan-Klocko",
+      "name": "Rolfson-Klocko",
       "rating": 1,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1598558737421,
@@ -954,10 +1066,12 @@
   {
     "id": "5f510859fc13ae166e00009c",
     "hotel": {
-      "name": "Windler Inc",
+      "name": "Gleichner and Sons",
       "rating": 2,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1599093045741,
@@ -974,7 +1088,9 @@
       "name": "Gutkowski Inc",
       "rating": 5,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1598710488241,
@@ -988,10 +1104,12 @@
   {
     "id": "5f510859fc13ae166e00009e",
     "hotel": {
-      "name": "Gleichner-Rempel",
+      "name": "Howe, Littel and Spencer",
       "rating": 1,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": false,
+      "lodging": true
     },
     "period": {
       "from": 1598669435528,
@@ -1008,7 +1126,9 @@
       "name": "Kris-Schoen",
       "rating": 2,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": false,
+      "lodging": false
     },
     "period": {
       "from": 1598967505613,
@@ -1025,7 +1145,9 @@
       "name": "Bosco-Fay",
       "rating": 1,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1598781925960,
@@ -1042,7 +1164,9 @@
       "name": "Jacobi-Mraz",
       "rating": 2,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": false,
+      "lodging": true
     },
     "period": {
       "from": 1598659646872,
@@ -1059,7 +1183,9 @@
       "name": "Cormier, Satterfield and Rosenbaum",
       "rating": 1,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1598905068762,
@@ -1073,10 +1199,12 @@
   {
     "id": "5f510859fc13ae166e0000a3",
     "hotel": {
-      "name": "Hansen and Sons",
+      "name": "Tromp and Sons",
       "rating": 5,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": false,
+      "lodging": true
     },
     "period": {
       "from": 1599109576518,
@@ -1093,7 +1221,9 @@
       "name": "Willms-Jacobson",
       "rating": 3,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1598621951266,
@@ -1110,7 +1240,9 @@
       "name": "Upton-Satterfield",
       "rating": 5,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1598587809565,
@@ -1127,7 +1259,9 @@
       "name": "Herman, McCullough and Rau",
       "rating": 3,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1598601934114,
@@ -1144,7 +1278,9 @@
       "name": "Funk, Ortiz and Walsh",
       "rating": 1,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1598636952996,
@@ -1161,7 +1297,9 @@
       "name": "Lubowitz, Hickle and Bernhard",
       "rating": 4,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1598583421827,
@@ -1176,9 +1314,11 @@
     "id": "5f510859fc13ae166e0000a9",
     "hotel": {
       "name": "Von, Dach and Lesch",
-      "rating": 5,
+      "rating": 3,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1598852575338,
@@ -1195,7 +1335,9 @@
       "name": "Blanda, Rogahn and Goodwin",
       "rating": 4,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1598576369136,
@@ -1212,7 +1354,9 @@
       "name": "Koelpin Group",
       "rating": 4,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1599139258579,
@@ -1229,7 +1373,9 @@
       "name": "Turner, Reichel and Kunze",
       "rating": 2,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1599134330924,
@@ -1246,7 +1392,9 @@
       "name": "Sanford, Bradtke and Conn",
       "rating": 1,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1598966944468,
@@ -1260,10 +1408,12 @@
   {
     "id": "5f510859fc13ae166e0000ae",
     "hotel": {
-      "name": "Aufderhar-Legros",
+      "name": "Tromp and Sons",
       "rating": 5,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1598633354445,
@@ -1280,7 +1430,9 @@
       "name": "Hackett-Towne",
       "rating": 1,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1598758329147,
@@ -1297,7 +1449,9 @@
       "name": "Padberg-Hamill",
       "rating": 1,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1598911914507,
@@ -1314,7 +1468,9 @@
       "name": "Prohaska Group",
       "rating": 2,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1598946756400,
@@ -1331,7 +1487,9 @@
       "name": "Conn Group",
       "rating": 3,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1599070253804,
@@ -1348,7 +1506,9 @@
       "name": "Klein and Sons",
       "rating": 1,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1598850133649,
@@ -1363,9 +1523,11 @@
     "id": "5f510859fc13ae166e0000b4",
     "hotel": {
       "name": "Medhurst-Boehm",
-      "rating": 4,
+      "rating": 2,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": false,
+      "lodging": false
     },
     "period": {
       "from": 1598814889130,
@@ -1382,7 +1544,9 @@
       "name": "Leffler and Sons",
       "rating": 2,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1598860217601,
@@ -1399,7 +1563,9 @@
       "name": "Murray-Ziemann",
       "rating": 1,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1598775838118,
@@ -1413,10 +1579,12 @@
   {
     "id": "5f510859fc13ae166e0000b7",
     "hotel": {
-      "name": "Runolfsson-Schumm",
+      "name": "Rolfson-Klocko",
       "rating": 2,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": false
     },
     "period": {
       "from": 1598912500460,
@@ -1430,10 +1598,12 @@
   {
     "id": "5f510859fc13ae166e0000b8",
     "hotel": {
-      "name": "Auer, Schinner and Schowalter",
+      "name": "Howe, Littel and Spencer",
       "rating": 5,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1598955239326,
@@ -1450,7 +1620,9 @@
       "name": "Larson-Haag",
       "rating": 4,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1598870963908,
@@ -1467,7 +1639,9 @@
       "name": "Swaniawski, Lynch and Marks",
       "rating": 3,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1598627536473,
@@ -1484,7 +1658,9 @@
       "name": "Gorczany-Watsica",
       "rating": 3,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1598607608748,
@@ -1501,7 +1677,9 @@
       "name": "Jerde, Glover and Konopelski",
       "rating": 4,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1598909554801,
@@ -1518,7 +1696,9 @@
       "name": "Volkman, Kuhn and Legros",
       "rating": 2,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1598623318169,
@@ -1535,7 +1715,9 @@
       "name": "McLaughlin, Flatley and Jacobson",
       "rating": 2,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1599104041864,
@@ -1552,7 +1734,9 @@
       "name": "Toy Inc",
       "rating": 5,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": false
     },
     "period": {
       "from": 1598717088300,
@@ -1569,7 +1753,9 @@
       "name": "Bayer-Ziemann",
       "rating": 3,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": false
     },
     "period": {
       "from": 1598635785253,
@@ -1586,7 +1772,9 @@
       "name": "Littel, Cummings and Lowe",
       "rating": 1,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": false
     },
     "period": {
       "from": 1598713203023,
@@ -1603,7 +1791,9 @@
       "name": "Ratke-Denesik",
       "rating": 1,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1599058955388,
@@ -1620,7 +1810,9 @@
       "name": "Bailey-Crist",
       "rating": 2,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1598920710864,
@@ -1634,10 +1826,12 @@
   {
     "id": "5f510859fc13ae166e0000c4",
     "hotel": {
-      "name": "Collins-Ondricka",
+      "name": "Tillman, Ziemann and Haley",
       "rating": 4,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1599034156978,
@@ -1654,7 +1848,9 @@
       "name": "Flatley Inc",
       "rating": 4,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1599013797139,
@@ -1668,10 +1864,12 @@
   {
     "id": "5f510859fc13ae166e0000c6",
     "hotel": {
-      "name": "Herman, Harber and Kerluke",
+      "name": "Gleichner and Sons",
       "rating": 5,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1598764569214,
@@ -1685,10 +1883,12 @@
   {
     "id": "5f510859fc13ae166e0000c7",
     "hotel": {
-      "name": "Reichert-Kohler",
+      "name": "Tillman, Ziemann and Haley",
       "rating": 1,
       "location": "Tel-Aviv",
-      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11"
+      "imgSrc": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/100175265.jpg?k=28cc45963ce4b50d887bc6b28021fd429d91b7e145d86bb973a1666325434a11",
+      "breakfast": true,
+      "lodging": true
     },
     "period": {
       "from": 1599040667523,

@@ -12,7 +12,7 @@ export default function ProductList({ children, products }) {
   const currentItems = products.slice(indexOfFirstItem, indexOfLastItem);
 
   const onPaginate = (ev, pageNumber) => {
-    console.log('Pagination to to page number:', pageNumber);
+    // console.log('Pagination to page number:', pageNumber);
     setCurrentPage(pageNumber);
   }
 

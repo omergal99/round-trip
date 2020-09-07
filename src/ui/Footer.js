@@ -1,5 +1,6 @@
 import React from "react";
 import { makeStyles } from '@material-ui/core/styles';
+import useMediaQuery from '@material-ui/core/useMediaQuery';
 
 import TwitterIcon from '@material-ui/icons/Twitter';
 import FacebookIcon from '@material-ui/icons/Facebook';
@@ -65,10 +66,7 @@ const useStyles = makeStyles({
     backgroundColor: '#3b3b3b',
     color: 'var(--font-color)',
     width: '100%',
-    display: 'flex',
     flexWrap: 'wrap',
-    justifyContent: 'space-between',
-    alignItems: 'center',
     padding: '1rem var(--left-right-padding)',
   },
   bottomIcons: {
@@ -115,6 +113,7 @@ const ICONS_FONT_SIZE = 46
 export default function Footer() {
   // console.log('Footer');
   const classes = useStyles();
+  const isDesktop = useMediaQuery('(min-width:768px)');
 
   const goUp = () => {
     window.scrollTo({ top: 0, behavior: 'smooth' });
@@ -154,7 +153,7 @@ export default function Footer() {
         </div>
       </div>
 
-      <div className={classes.bottomSection}>
+      <div className={`${classes.bottomSection} ${isDesktop ? 'flex-between' : 'flex-center'}`}>
         <span className={`flex-center ${classes.copyRight}`}>
           <CopyrightIcon style={{ fontSize: 18, marginLeft: '0.5rem' }} />
           <span>{footer.copyrights}</span>

@@ -71,7 +71,7 @@ const useStyles = makeStyles({
     cursor: 'pointer',
   },
   coinZindex: {
-    zIndex: 200,
+    zIndex: 300,
   },
   menuIcon: {
     cursor: 'pointer',

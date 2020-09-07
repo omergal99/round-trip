@@ -22,9 +22,11 @@ export default function ProductList({ children, products }) {
     </React.Fragment>
   })
 
+  if(products.length === 0) return null;
   return (
     <>
       {list}
+
       <div className="flex-center">
         <MaterialPagination totalItems={products.length} itemsPerPage={ITEMS_PER_PAGE}
           onPaginate={onPaginate} size={'large'} shape={'rounded'}

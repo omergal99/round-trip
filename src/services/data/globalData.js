@@ -164,7 +164,7 @@ export const vacationItemText = {
   cleanResultsByHotel: 'נקה סינון לפי מלון',
   totalFound: 'סה"כ נמצאו',
   results: 'תוצאות',
-  noResultsFound: 'תוצאות',
+  noResultsFound: 'לא נמצאו תוצאות',
   AveragePricePerPersonInDoubleRoom: 'מחיר ממוצע לאדם בחדר זוגי',
   out: 'יציאה',
   back: 'חזרה',
